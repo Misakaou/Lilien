@@ -1,0 +1,4 @@
+db:
+  mongouri: 'mongodb://localhost:27017/dbdb'
+  redisuri: 'redis://localhost:6379/0'
+  
